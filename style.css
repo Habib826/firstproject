@@ -1,0 +1,54 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+ul li a{
+    text-decoration: none;
+    list-style: none;
+    color: black;
+   
+}
+ul li{
+    display: inline;
+    padding: 5px;
+    margin-top: 10px;
+}
+.nav{
+    text-align: right;
+    padding-top: 30px;
+    font-size: 20px;
+    width: 90%;
+    height: 50px;
+
+}
+
+.information{
+    margin-top: 50px;
+    margin-left: 80px;
+    float: left;
+    width: 35%;
+    height: 400px;
+}
+img{
+    width: 100%;
+    margin-left: 30px;
+}
+.heading{
+    font-size: 70px;
+}
+p{
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+
+span{
+    color: turquoise;
+}
+.link-button{
+    color: white;
+    text-decoration: none;
+    background-image: linear-gradient(45deg, cyan, blue);
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-weight: bold;
+}
